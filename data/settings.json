@@ -1,12 +1,13 @@
 {
   "name": "Abish Kumar Tamang",
-  "email": "your-email@example.com",
-  "instagram": "https://instagram.com/yourusername",
-  "youtube": "https://youtube.com/@yourchannel",
+  "email": "abishkumartamang@gmail.com",
+  "instagram": "https://www.instagram.com/abishkumartamang/",
+  "youtube": "https://www.youtube.com/@Itsmeabish",
+  "facebook": "https://www.facebook.com/abish.tamang.58",
   "tiktok": "https://tiktok.com/@yourusername",
   "whatsapp": "",
   "linkedin": "",
   "showreelUrl": "",
-  "beforeImage": "",
-  "afterImage": ""
+  "beforeImage": "images/uploads/raw-sample.jpg",
+  "afterImage": "images/uploads/graded-sample.jpg"
 }

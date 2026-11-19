@@ -1,29 +1,71 @@
 [
   {
-    "title": "Your cinematic film",
+    "title": "NOVA",
+    "category": "Cinematic",
+    "description": "",
+    "videoUrl": "https://www.facebook.com/share/r/1DhpnhQLDv/",
+    "thumbnailUrl": "images/uploads/thumb_1795100025052.jpg",
+    "aspectRatio": "9:16",
+    "client": "",
+    "featured": true,
+    "media": [],
+    "duration": "",
+    "software": ""
+  },
+  {
+    "title": "NOVA REEL 2",
+    "category": "Cinematic",
+    "description": "",
+    "videoUrl": "https://www.facebook.com/share/r/199wyhKcJu/",
+    "thumbnailUrl": "images/uploads/thumb_1795099918794.jpg",
+    "aspectRatio": "9:16",
+    "client": "",
+    "featured": true,
+    "media": [],
+    "duration": "",
+    "software": ""
+  },
+  {
+    "title": "NOVA reel",
+    "category": "Social",
+    "description": "",
+    "videoUrl": "https://www.facebook.com/share/r/1KQDY3yPq1/",
+    "thumbnailUrl": "images/uploads/thumb_1795099585113.jpg",
+    "aspectRatio": "9:16",
+    "client": "",
+    "featured": true,
+    "media": [],
+    "duration": "",
+    "software": ""
+  },
+  {
+    "title": "College Cinematic video",
     "category": "Cinematic",
     "description": "Replace this sample with a real project.",
-    "videoUrl": "",
-    "thumbnailUrl": "",
+    "videoUrl": "https://youtu.be/iYKJ7ss8eSM?si=MJhzCODtKa2u8fCw",
+    "thumbnailUrl": "images/uploads/thumb_1794494049077.jpg",
+    "aspectRatio": "16:9",
     "client": "",
-    "featured": true
+    "featured": true,
+    "media": [],
+    "duration": "",
+    "software": "",
+    "process": "",
+    "credits": ""
   },
   {
-    "title": "Wedding highlight",
-    "category": "Wedding",
-    "description": "Add your wedding edit and a short description.",
-    "videoUrl": "",
-    "thumbnailUrl": "",
-    "client": "",
-    "featured": true
-  },
-  {
-    "title": "Social media reel",
+    "title": "John Rai concert announcement by khadka group",
     "category": "Social",
     "description": "Add a brand reel or short-form edit.",
-    "videoUrl": "",
-    "thumbnailUrl": "",
+    "videoUrl": "https://www.instagram.com/reel/DZno2i1xD_v/?utm_source=ig_web_copy_link&rpxt=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
+    "thumbnailUrl": "images/uploads/thumb_1794493915367.jpg",
+    "aspectRatio": "9:16",
     "client": "",
-    "featured": true
+    "featured": true,
+    "media": [],
+    "duration": "",
+    "software": "",
+    "process": "",
+    "credits": ""
   }
 ]

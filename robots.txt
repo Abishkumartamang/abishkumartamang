@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Disallow private data folder if requested, or keep open
+Allow: /data/
+Allow: /images/
+
+# Sitemaps
+Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
